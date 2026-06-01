@@ -1,4 +1,5 @@
 # Button Generator Pro
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f66ded21-19ed-4765-8630-c588a24bc33d" />
 
 Hey there! Button Generator Pro is your ultimate algorithmic design system companion. If you are tired of spending hours creating endless button variations, this tool does it all in seconds with mathematical precision. You simply pick your primary color, and the engine automatically calculates WCAG 2.2 compliant text contrasts. It also instantly generates all state colors like hover, pressed, and disabled without you lifting a finger.
 
